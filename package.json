@@ -1,0 +1,16 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/RennanDamiaoMoreira/ReactJs.git",
+  "author": "Rennan <rennandamiao@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RennanDamiaoMoreira/ReactJs/issues"
+  },
+  "homepage": "https://github.com/RennanDamiaoMoreira/ReactJs#readme"
+}
